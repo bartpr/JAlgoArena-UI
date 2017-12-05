@@ -4,7 +4,7 @@ module.exports = {
     jalgoarenaApiUrl: "https://bprzybylski-jalgoarena-api.herokuapp.com",
     title: "Start to solve your first problem",
     emailRegex,
-    emailErrorMessage: "Please enter a valid email address",
+    emailErrorMessage: "bartpr@o2.pl",
     teams: ["Zespol A", "Zespol B", "Zespol C"],
     regions: ["Kraków", "Wrocław"]
 };
